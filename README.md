@@ -14,4 +14,10 @@
 * [kaldi_thchs30_tutorial.ipynb](https://colab.research.google.com/drive/1afXkA1izzMBzwidb6OaIC---3ViOx_d2)  #colab  
 
   基于上一个notebook的thchs30的一个tutorial  
+  
+* [nasal.ipynb] # colab
 
+  论文复现[Excitation Source and Vocal Tract System Based Acoustic Features for Detection of Nasals in Continuous Speech](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2785.pdf)  
+  主要是对一下两个方法的理解与实现，可能会用于未来的工作当中
+  *  ZFF(zero frequency filtered)
+  *  ZTW(Zero-time windowing)
